@@ -246,7 +246,7 @@
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
     "DownloadCount": 1934,
-    "LastUpdate": "1792255596"
+    "LastUpdate": "1792320874"
   },
   {
     "Author": "XeldarAlz",
@@ -283,8 +283,8 @@
     "Author": "XeldarAlz",
     "Name": "Auto Triple Triad Grind",
     "InternalName": "AutoTripleTriadGrind",
-    "AssemblyVersion": "1.2.0.0",
-    "TestingAssemblyVersion": "1.2.0.0",
+    "AssemblyVersion": "1.2.1.0",
+    "TestingAssemblyVersion": "1.2.1.0",
     "Description": "Collects every Triple Triad card NPCs can give you: pick the cards you are missing, and the plugin travels to each NPC, builds a deck for its rules, plays until your cards drop, registers them, and moves on.",
     "Punchline": "Every NPC card, collected for you.",
     "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoTripleTriadGrind",
@@ -307,7 +307,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoTripleTriadGrind/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 3375,
+    "DownloadCount": 3376,
     "LastUpdate": "1791860807"
   },
   {
