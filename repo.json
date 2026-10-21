@@ -3,8 +3,8 @@
     "Author": "XeldarAlz",
     "Name": "Auto PVP LB",
     "InternalName": "PvpAutoLb",
-    "AssemblyVersion": "1.4.0.0",
-    "TestingAssemblyVersion": "1.4.0.0",
+    "AssemblyVersion": "1.4.1.0",
+    "TestingAssemblyVersion": "1.4.1.0",
     "Description": "Fires your PvP Limit Break for you when an enemy's HP drops below a configurable threshold.",
     "Punchline": "Your PvP Limit Break, fired for you.",
     "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak",
@@ -25,8 +25,8 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 17347,
-    "LastUpdate": "1792255625"
+    "DownloadCount": 17372,
+    "LastUpdate": "1792597862"
   },
   {
     "Author": "XeldarAlz",
@@ -53,7 +53,7 @@
       "utility"
     ],
     "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoMahjongSolver/main/AutoMahjongSolver/Images/Icon.png",
-    "DownloadCount": 13746,
+    "DownloadCount": 13753,
     "DownloadLinkInstall": "https://github.com/XeldarAlz/FFXIV-AutoMahjongSolver/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/XeldarAlz/FFXIV-AutoMahjongSolver/releases/latest/download/latest.zip",
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoMahjongSolver/releases/latest/download/latest.zip",
@@ -64,8 +64,8 @@
     "Author": "XeldarAlz",
     "Name": "Auto Daily Tribes",
     "InternalName": "AutoDailyTribes",
-    "AssemblyVersion": "2.11.1.0",
-    "TestingAssemblyVersion": "2.11.1.0",
+    "AssemblyVersion": "2.11.2.0",
+    "TestingAssemblyVersion": "2.11.2.0",
     "Description": "Does your daily allied tribe quests for you: tick the tribes, the plugin handles the rest.",
     "Punchline": "Daily allied tribe quests, done for you.",
     "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes",
@@ -86,15 +86,15 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 33259,
-    "LastUpdate": "1792571561"
+    "DownloadCount": 33506,
+    "LastUpdate": "1792597850"
   },
   {
     "Author": "XeldarAlz",
     "Name": "Auto FATE Grind",
     "InternalName": "AutoFateGrind",
-    "AssemblyVersion": "2.21.3.0",
-    "TestingAssemblyVersion": "2.21.3.0",
+    "AssemblyVersion": "2.22.0.0",
+    "TestingAssemblyVersion": "2.22.0.0",
     "Description": "Farms FATEs for you: tick the zones, and the plugin teleports in, finds active FATEs, and runs them in a loop until your target is met.",
     "Punchline": "FATEs, farmed for you.",
     "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind",
@@ -116,15 +116,15 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 78811,
-    "LastUpdate": "1792572413"
+    "DownloadCount": 79247,
+    "LastUpdate": "1792597846"
   },
   {
     "Author": "XeldarAlz",
     "Name": "Auto PVP Series Grind",
     "InternalName": "AutoPvpSeriesGrind",
-    "AssemblyVersion": "2.11.2.0",
-    "TestingAssemblyVersion": "2.11.2.0",
+    "AssemblyVersion": "2.12.0.0",
+    "TestingAssemblyVersion": "2.12.0.0",
     "Description": "Grinds PvP Series Malmstones in Crystalline Conflict Casual or Ranked Matches, or Frontline, with preview infantry support for Rival Wings (Hidden Gorge). Queues and plays until your goal is met.",
     "Punchline": "PvP Series, grinded for you.",
     "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind",
@@ -149,7 +149,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 21194,
+    "DownloadCount": 21318,
     "LastUpdate": "1792572720"
   },
   {
@@ -183,15 +183,15 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-Aetherphone/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 526896,
+    "DownloadCount": 527489,
     "LastUpdate": "1792440641"
   },
   {
     "Author": "XeldarAlz",
     "Name": "Auto Hunt Grinder",
     "InternalName": "AutoHuntGrinder",
-    "AssemblyVersion": "1.10.2.0",
-    "TestingAssemblyVersion": "1.10.2.0",
+    "AssemblyVersion": "1.11.0.0",
+    "TestingAssemblyVersion": "1.11.0.0",
     "Description": "Clears your hunt bills for you: tick the daily and weekly bills you want, and the plugin picks them up at the hunt board, finds every mark, and fights it until each bill is done.",
     "Punchline": "Hunt bills, cleared for you.",
     "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoHuntGrinder",
@@ -214,15 +214,15 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoHuntGrinder/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 9438,
-    "LastUpdate": "1792573228"
+    "DownloadCount": 9589,
+    "LastUpdate": "1792597850"
   },
   {
     "Author": "XeldarAlz",
     "Name": "Auto Hunt Train",
     "InternalName": "AutoHuntTrain",
-    "AssemblyVersion": "1.3.1.0",
-    "TestingAssemblyVersion": "1.3.1.0",
+    "AssemblyVersion": "1.4.0.0",
+    "TestingAssemblyVersion": "1.4.0.0",
     "Description": "Rides hunt trains for you: hears a train being called anywhere in your region, travels to the start aetheryte on that world, follows the conductor's flags from mark to mark, and lands a hit on every A rank before the crowd deletes it.",
     "Punchline": "Hunt trains, ridden for you.",
     "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoHuntTrain",
@@ -245,15 +245,15 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoHuntTrain/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 2709,
-    "LastUpdate": "1792571529"
+    "DownloadCount": 2780,
+    "LastUpdate": "1792597853"
   },
   {
     "Author": "XeldarAlz",
     "Name": "Auto Sightseeing Log",
     "InternalName": "AutoSightseeingLog",
-    "AssemblyVersion": "1.11.2.0",
-    "TestingAssemblyVersion": "1.11.2.0",
+    "AssemblyVersion": "1.12.0.0",
+    "TestingAssemblyVersion": "1.12.0.0",
     "Description": "Fills in your Sightseeing Log for you: tick the vistas you want, and the plugin travels to each one, waits for its hour and weather, performs the emote the log asks for, and moves on until every vista is logged.",
     "Punchline": "Sightseeing vistas, logged for you.",
     "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoSightseeingLog",
@@ -276,15 +276,15 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoSightseeingLog/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 5227,
+    "DownloadCount": 5357,
     "LastUpdate": "1792579265"
   },
   {
     "Author": "XeldarAlz",
     "Name": "Auto Triple Triad Grind",
     "InternalName": "AutoTripleTriadGrind",
-    "AssemblyVersion": "1.2.2.0",
-    "TestingAssemblyVersion": "1.2.2.0",
+    "AssemblyVersion": "1.3.0.0",
+    "TestingAssemblyVersion": "1.3.0.0",
     "Description": "Collects every Triple Triad card NPCs can give you: pick the cards you are missing, and the plugin travels to each NPC, builds a deck for its rules, plays until your cards drop, registers them, and moves on.",
     "Punchline": "Every NPC card, collected for you.",
     "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoTripleTriadGrind",
@@ -307,15 +307,15 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoTripleTriadGrind/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 4754,
-    "LastUpdate": "1792571609"
+    "DownloadCount": 4889,
+    "LastUpdate": "1792597852"
   },
   {
     "Author": "XeldarAlz",
     "Name": "Auto Treasure Maps",
     "InternalName": "AutoTreasureMaps",
-    "AssemblyVersion": "1.1.0.0",
-    "TestingAssemblyVersion": "1.1.0.0",
+    "AssemblyVersion": "1.2.0.0",
+    "TestingAssemblyVersion": "1.2.0.0",
     "Description": "Works through your timeworn maps for you: deciphers each map in your bags, travels to the dig spot, digs up the coffer, fights off its guards and opens it, then moves on to the next map. When your bags run dry it can gather the daily timeworn map as a Miner or Botanist and buy more on the market board under your price caps and gil budget.",
     "Punchline": "Treasure maps, dug up for you.",
     "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoTreasureMaps",
@@ -339,15 +339,15 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoTreasureMaps/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 483,
-    "LastUpdate": "1792572962"
+    "DownloadCount": 526,
+    "LastUpdate": "1792597870"
   },
   {
     "Author": "XeldarAlz",
     "Name": "Auto Shopper",
     "InternalName": "AutoShopper",
-    "AssemblyVersion": "1.3.1.0",
-    "TestingAssemblyVersion": "1.3.1.0",
+    "AssemblyVersion": "1.4.0.0",
+    "TestingAssemblyVersion": "1.4.0.0",
     "Description": "Buys your market board shopping list for you: plans the cheapest route through Universalis prices across the worlds you allow, travels between them with Lifestream, walks to the market board, buys whole listings within your price caps, and confirms every purchase.",
     "Punchline": "Your market board shopping list, bought for you.",
     "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoShopper",
@@ -369,15 +369,15 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoShopper/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 802,
+    "DownloadCount": 857,
     "LastUpdate": "1792571563"
   },
   {
     "Author": "XeldarAlz",
     "Name": "Auto GC Supply",
     "InternalName": "AutoGcSupply",
-    "AssemblyVersion": "1.0.0.5",
-    "TestingAssemblyVersion": "1.0.0.5",
+    "AssemblyVersion": "1.1.0.0",
+    "TestingAssemblyVersion": "1.1.0.0",
     "Description": "Delivers your Grand Company supply and provisioning requests for you: reads the day's requests, buys what is missing through Auto Shopper, then travels to your Personnel Officer and hands in the ones you chose, confirming every delivery.",
     "Punchline": "Grand Company supply and provisioning, delivered for you.",
     "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoGCSupply",
@@ -401,15 +401,15 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoGCSupply/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 538,
+    "DownloadCount": 573,
     "LastUpdate": "1792571588"
   },
   {
     "Author": "XeldarAlz",
     "Name": "Auto House Lottery",
     "InternalName": "AutoHouseLottery",
-    "AssemblyVersion": "1.1.1.0",
-    "TestingAssemblyVersion": "1.1.1.0",
+    "AssemblyVersion": "1.2.0.0",
+    "TestingAssemblyVersion": "1.2.0.0",
     "Description": "Enters housing lotteries for you: pick an empty plot on the map or build a shortlist, and the plugin travels there, enters the lottery, then checks the result and collects your refund or claims your house.",
     "Punchline": "Housing lotteries, entered for you.",
     "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoHouseLottery",
@@ -432,15 +432,15 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoHouseLottery/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 287,
-    "LastUpdate": "1792571674"
+    "DownloadCount": 322,
+    "LastUpdate": "1792597871"
   },
   {
     "Author": "XeldarAlz",
     "Name": "Auto Seller",
     "InternalName": "AutoSeller",
-    "AssemblyVersion": "1.0.2.0",
-    "TestingAssemblyVersion": "1.0.2.0",
+    "AssemblyVersion": "1.1.0.0",
+    "TestingAssemblyVersion": "1.1.0.0",
     "Description": "Sells through your retainers for you: set what to sell and the lowest price you accept, and the plugin visits each retainer at a summoning bell, compares market prices, reprices and lists your items without ever going below that price, and records every sale.",
     "Punchline": "Your retainer listings, sold for you.",
     "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoSeller",
@@ -463,7 +463,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoSeller/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 338,
-    "LastUpdate": "1792571616"
+    "DownloadCount": 381,
+    "LastUpdate": "1792597869"
   }
 ]
