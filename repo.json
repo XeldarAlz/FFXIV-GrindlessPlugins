@@ -116,7 +116,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 77918,
+    "DownloadCount": 77922,
     "LastUpdate": "1792572413"
   },
   {
@@ -314,8 +314,8 @@
     "Author": "XeldarAlz",
     "Name": "Auto Treasure Maps",
     "InternalName": "AutoTreasureMaps",
-    "AssemblyVersion": "1.0.0.0",
-    "TestingAssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.1.0.0",
+    "TestingAssemblyVersion": "1.1.0.0",
     "Description": "Works through your timeworn maps for you: deciphers each map in your bags, travels to the dig spot, digs up the coffer, fights off its guards and opens it, then moves on to the next map. When your bags run dry it can gather the daily timeworn map as a Miner or Botanist and buy more on the market board under your price caps and gil budget.",
     "Punchline": "Treasure maps, dug up for you.",
     "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoTreasureMaps",
@@ -340,7 +340,7 @@
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
     "DownloadCount": 396,
-    "LastUpdate": "1791869946"
+    "LastUpdate": "1792572962"
   },
   {
     "Author": "XeldarAlz",
