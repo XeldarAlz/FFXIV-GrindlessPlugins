@@ -3,8 +3,8 @@
     "Author": "XeldarAlz",
     "Name": "Auto PVP LB",
     "InternalName": "PvpAutoLb",
-    "AssemblyVersion": "1.4.1.0",
-    "TestingAssemblyVersion": "1.4.1.0",
+    "AssemblyVersion": "1.5.0.0",
+    "TestingAssemblyVersion": "1.5.0.0",
     "Description": "Fires your PvP Limit Break for you when an enemy's HP drops below a configurable threshold.",
     "Punchline": "Your PvP Limit Break, fired for you.",
     "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak",
@@ -25,7 +25,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 17672,
+    "DownloadCount": 17677,
     "LastUpdate": "1792597862"
   },
   {
@@ -64,8 +64,8 @@
     "Author": "XeldarAlz",
     "Name": "Auto Daily Tribes",
     "InternalName": "AutoDailyTribes",
-    "AssemblyVersion": "2.11.2.0",
-    "TestingAssemblyVersion": "2.11.2.0",
+    "AssemblyVersion": "2.11.3.0",
+    "TestingAssemblyVersion": "2.11.3.0",
     "Description": "Does your daily allied tribe quests for you: tick the tribes, the plugin handles the rest.",
     "Punchline": "Daily allied tribe quests, done for you.",
     "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes",
@@ -86,8 +86,8 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 34005,
-    "LastUpdate": "1792597850"
+    "DownloadCount": 34010,
+    "LastUpdate": "1792657527"
   },
   {
     "Author": "XeldarAlz",
@@ -116,7 +116,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 79994,
+    "DownloadCount": 80012,
     "LastUpdate": "1792597846"
   },
   {
@@ -149,7 +149,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 21571,
+    "DownloadCount": 21574,
     "LastUpdate": "1792597890"
   },
   {
@@ -183,7 +183,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-Aetherphone/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 529557,
+    "DownloadCount": 529561,
     "LastUpdate": "1792440641"
   },
   {
@@ -214,15 +214,15 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoHuntGrinder/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 9927,
+    "DownloadCount": 9933,
     "LastUpdate": "1792597850"
   },
   {
     "Author": "XeldarAlz",
     "Name": "Auto Hunt Train",
     "InternalName": "AutoHuntTrain",
-    "AssemblyVersion": "1.4.0.0",
-    "TestingAssemblyVersion": "1.4.0.0",
+    "AssemblyVersion": "1.4.1.0",
+    "TestingAssemblyVersion": "1.4.1.0",
     "Description": "Rides hunt trains for you: hears a train being called anywhere in your region, travels to the start aetheryte on that world, follows the conductor's flags from mark to mark, and lands a hit on every A rank before the crowd deletes it.",
     "Punchline": "Hunt trains, ridden for you.",
     "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoHuntTrain",
@@ -245,8 +245,8 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoHuntTrain/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 2947,
-    "LastUpdate": "1792597853"
+    "DownloadCount": 2949,
+    "LastUpdate": "1792657534"
   },
   {
     "Author": "XeldarAlz",
@@ -276,15 +276,15 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoSightseeingLog/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 5623,
+    "DownloadCount": 5629,
     "LastUpdate": "1792642717"
   },
   {
     "Author": "XeldarAlz",
     "Name": "Auto Triple Triad Grind",
     "InternalName": "AutoTripleTriadGrind",
-    "AssemblyVersion": "1.3.0.0",
-    "TestingAssemblyVersion": "1.3.0.0",
+    "AssemblyVersion": "1.3.1.0",
+    "TestingAssemblyVersion": "1.3.1.0",
     "Description": "Collects every Triple Triad card NPCs can give you: pick the cards you are missing, and the plugin travels to each NPC, builds a deck for its rules, plays until your cards drop, registers them, and moves on.",
     "Punchline": "Every NPC card, collected for you.",
     "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoTripleTriadGrind",
@@ -307,7 +307,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoTripleTriadGrind/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 5154,
+    "DownloadCount": 5157,
     "LastUpdate": "1792597852"
   },
   {
@@ -339,7 +339,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoTreasureMaps/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 630,
+    "DownloadCount": 632,
     "LastUpdate": "1792641419"
   },
   {
@@ -401,15 +401,15 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoGCSupply/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 648,
+    "DownloadCount": 649,
     "LastUpdate": "1792597902"
   },
   {
     "Author": "XeldarAlz",
     "Name": "Auto House Lottery",
     "InternalName": "AutoHouseLottery",
-    "AssemblyVersion": "1.2.0.0",
-    "TestingAssemblyVersion": "1.2.0.0",
+    "AssemblyVersion": "1.2.1.0",
+    "TestingAssemblyVersion": "1.2.1.0",
     "Description": "Enters housing lotteries for you: pick an empty plot on the map or build a shortlist, and the plugin travels there, enters the lottery, then checks the result and collects your refund or claims your house.",
     "Punchline": "Housing lotteries, entered for you.",
     "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoHouseLottery",
@@ -432,8 +432,8 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoHouseLottery/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 382,
-    "LastUpdate": "1792597871"
+    "DownloadCount": 383,
+    "LastUpdate": "1792657537"
   },
   {
     "Author": "XeldarAlz",
@@ -463,7 +463,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoSeller/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 464,
+    "DownloadCount": 466,
     "LastUpdate": "1792597869"
   }
 ]
